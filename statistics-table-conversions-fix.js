@@ -13,3 +13,5 @@ $.each(rows,function(rowind, row){
 }
 )
 
+$('#content').width($('#content').width() + 50)
+
